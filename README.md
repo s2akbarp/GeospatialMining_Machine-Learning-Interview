@@ -1,4 +1,4 @@
-# 🌟 My Learning Journey to a Computer Vision & ML Data Scientist Position 🌟
+# 🌟 My Learning Journey to a Computer Vision & ML Data Scientist Position in Geospatial Modeling 🌟
 
 Welcome to my repository! This is where I document and share my experiences and learning journey as I am working  towards achieving my dream job in computer vision and machine learning, focusing on geospatial modeling and remote sensing. Here, you'll find a collection of data, notebooks, and code that reflect my progress and knowledge acquisition in this exciting field.
 
